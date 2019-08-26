@@ -19,7 +19,7 @@ contract ERC223Token is ERC223Interface {
      *      but does not implement the `tokenFallback` function
      *      or the fallback function to receive funds.
      *
-     * @param _to    Receiver address.
+     * @param _to    Receiver addresss.
      * @param _value Amount of tokens that will be transferred.
      * @param _data  Transaction metadata.
      */
